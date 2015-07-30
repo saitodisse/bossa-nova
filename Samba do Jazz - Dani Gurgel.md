@@ -16,9 +16,9 @@ por Dani Gurgel
     Forjou num sentimento meio blues
 '                              A7M    '
     Retinto canto de lamento e paz
-'            G13      F#13     Bm7    '
+'            G13      F#13     Bm9   '
     Que feito sina de espada e cruz
-'            E7                   A7M    '
+'            E7                   A7M     A#7(b11)'
     Invade o peito de quem ouve e jazz
 
 '   A7M                             B7/9    '
@@ -29,36 +29,40 @@ por Dani Gurgel
     Batuques bantos do porão das naus
 '            G13        F#13      B7/9    '
     E num disfarce em sambas de Noel
-'           E7/9b              A7M    '
+'           E7/9b              A7M    ' // aqui tá errado
     O negro pranto foi se inventar
 '        A#º      '
     Carnaval
 
-'   Bm7/9       Cº               Fm7          '
+'   Bm7/9       Cº                  F#m7          '
     Som que arrebata e que causa frisson
-'                                                         '
-    Ou desacata na mulata o dom
-'                                                         '
+'          F#m6             C#m9      '  // a partir daqui
+    Ou desacata na mulata o dom                              // não sei
+'            F#13b            Bm9   '
     Marca na alma a tez de um pais
-'                                                         '
+'            E13b                  A7M    '
     Feito um feitiço que o lamento quis
-'                                                         '
+'         A#º      '
     Pra viver
 
-'                                                         '
+'   Bm7/9            Cº                       F#m7          '
     Ah, quem tem no sangue o samba, o jazz, o som
-'                                                         '
+'             F#m6              C#m9      '  // a partir daqui
     Tem na mistura encantamento bom
-'                                                         '
+'              F#13b             Bm9   '
     Feito um rabisco de carvão e giz
-'                                                         '
+'            E7               A7M    '
     Ou duas flores da mesma raiz.
-'                                                         '
-    Sambei no Jazz
-'                                                         '
-    Ou foi o jazz que sambou
-'                                                         '
-    Deu tom com miles
-'                                                         '
-    Cuica and soul
+
+class Refrão() {
+    '   A7M                 E7/4        '
+             Sambei no Jazz
+    '                        A7M        '
+        Ou foi o jazz que sambou
+    '               E7/4        '
+        Deu tom com miles
+    '              A7M        '
+        Cuica and soul
+}
+
 ```
