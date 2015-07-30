@@ -27,14 +27,14 @@ por Dani Gurgel
     Curaram a dor e transformaram em céu
 '                                A7M    '
     Batuques bantos do porão das naus
-'            G13        F#13      Bm7    '
+'            G13        F#13      B7/9    '
     E num disfarce em sambas de Noel
-'           E7                 A7M    '
+'           E7/9b              A7M    '
     O negro pranto foi se inventar
-'                                                         '
+'        A#º      '
     Carnaval
 
-'                                                         '
+'   Bm7/9       Cº               Fm7          '
     Som que arrebata e que causa frisson
 '                                                         '
     Ou desacata na mulata o dom
