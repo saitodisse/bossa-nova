@@ -54,15 +54,15 @@ por Dani Gurgel
 '            E7               A7M    '
     Ou duas flores da mesma raiz.
 
-class Refrão() {
-    '   A7M                 E7/4        '
-             Sambei no Jazz
-    '                        A7M        '
-        Ou foi o jazz que sambou
-    '               E7/4        '
-        Deu tom com miles
-    '              A7M        '
-        Cuica and soul
-}
+>>>>>>>>>>>> Refrao() >>>>>>>>>>>>>>>>
+'   A7M                 E7/4        '
+         Sambei no Jazz
+'                        A7M        '
+    Ou foi o jazz que sambou
+'               E7/4        '
+    Deu tom com miles
+'              A7M        '
+    Cuica and soul
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ```
