@@ -8,6 +8,7 @@ por Dani Gurgel
 
 ```js
 
+'   intro: ??  ??   ??  ??  ??  ??  ??  ??  ??  ??  ?? ??  ??  ??    '
 '   A7M        E7/4    '
 ''
 '   A7M                             B7/9    '
@@ -16,9 +17,9 @@ por Dani Gurgel
     Forjou num sentimento meio blues
 '                              A7M    '
     Retinto canto de lamento e paz
-'            G13      F#13     Bm7   '
+'            G13      F#13     B7/9   '
     Que feito sina de espada e cruz
-'            E7                   A7M     A#7(b11)'
+'            E                    A7M     A#7(b11)'
     Invade o peito de quem ouve e jazz
 
 '   A7M                             B7/9    '
@@ -27,7 +28,7 @@ por Dani Gurgel
     Curaram a dor e transformaram em céu
 '                                A7M    '
     Batuques bantos do porão das naus
-'            G13        F#13      F7/11b   '
+'            G13        F#13      B7/9   '
     E num disfarce em sambas de Noel
 '            E7                A7M    '
     O negro pranto foi se inventar
