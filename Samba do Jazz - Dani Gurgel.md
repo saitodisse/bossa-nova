@@ -54,7 +54,7 @@ por Dani Gurgel
 '            E13b             A7M    '
     Ou duas flores da mesma raiz.
 
->> Refrao()
+>> // repete 2x
   '   A7M                 E7/4        '
            Sambei no Jazz
   '                        A7M        '
