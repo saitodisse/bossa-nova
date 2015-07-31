@@ -1,13 +1,13 @@
 # bossa-nova
 
-## Uma forma compartilhar suas cifras.
+##### Uma forma inteligente de compartilhar cifras.
 
-cifras, tabs
+*cifras, tabs*
 
-- fácil de alterar, basta editar
-- grátis, um texto open source apenas
-- pode-se editar pelo github ou pelo seu editor de texto favorito
-- usa Markdown com syntax highlighting em python, o que permite que as linhas fiquem coloridas alternadamente com a notação abaixo:
+- Totalmente open-source
+- Fácil de alterar, basta editar.
+- Pode-se editar pelo `Github` ou pelo seu `editor de textos` favorito. Se usar Sublime Text ou Atom, existem plugins que vão colorir o texto abaixo.
+- `Markdown` com `syntax highlighting` em `python`, o que permite que as linhas fiquem coloridas alternadamente, como no exemplo abaixo:
 
 ```py
 ###        --A--
