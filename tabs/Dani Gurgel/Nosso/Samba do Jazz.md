@@ -31,28 +31,28 @@
 '''        E num disfarce em sambas de Noel
 '''                B7/9          E7   A7M
 '''        O negro pranto foi se inventar
-'''             A#º
+'''             A7
 '''        Carnaval
 
 ###        --B--
-'''        D6/9        Cº            Aº    F#m7
+'''        D6/9        Aº            Cº    F#m7
 '''        Som que arrebata e que causa frisson
 '''               F#m6             C#m7
 '''        Ou desacata na mulata o dom
-'''                 F#13b            Bm7
+'''                 F#7(b13)            Bm7
 '''        Marca na alma a tez de um pais
-'''                 E13b                  A7M
+'''                 E7(b13)                  A7M
 '''        Feito um feitiço que o lamento quis
-'''              A#º
+'''              A7
 '''        Pra viver
 
-'''        D6/9            Cº                Aº      F#m7
+'''        D6/9            Aº                Cº      F#m7
 '''        Ah, quem tem no sangue o samba, o jazz, o som
 '''                  F#m6              C#m7
 '''        Tem na mistura encantamento bom
-'''                   F#13b             Bm7
+'''                   F#7(b13)             Bm7
 '''        Feito um rabisco de carvão e giz
-'''                E13b              A7M
+'''                E7(b13)              A7M
 '''        Ou duas flores da mesma raiz.
 
 ###        --refrão--
