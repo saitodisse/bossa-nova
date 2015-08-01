@@ -1,97 +1,80 @@
 #### Samba do Jazz
 ##### Dani Gurgel (Nosso)
 ###### Dani Black e Breno Ruiz
-- [video](https://www.youtube.com/watch?v=7iTC9ldjB3A)
+- [youtube](https://www.youtube.com/watch?v=7iTC9ldjB3A)
 
 ```py
-###    -- intro --
-'''    ??
+###        -- intro --
+'''        ??   ??   ??   ??   ??  ??  ??  ??  ??  ??  ?? ??  ??  ??
+           A7M    E7/4      A7M    E7/4
 '''
 
-###    -- A --
-'''
-'''    De manhã
-'''
-'''    Já tô no fogo cozinhando a cantar
-'''
-'''    Domingão
-'''
-'''    Moçada vem pra almoçar
-'''
-'''
-'''
-'''    Traz a tia pra fofocar
-'''
-'''    O tio pra bagunçar
-'''
-'''    E a criançada brincar
-'''
-'''
-'''
-'''    Que eu quero mesmo festa e bagunça
-'''
-'''    Eu não ligo pra zona
-'''
-'''    E quem arruma sou eu mesma
-'''
-'''    A vó é santa, vê só
+###        -- A --
+'''        A7M                             B7/9
+'''        Tom de azul néon bordado a meia voz
+'''                                   D7M
+'''        Forjou num sentimento meio blues
+'''                                   A7M
+'''        Retinto canto de lamento e paz
+'''                  G13      F#13    C7/9
+'''        Que feito sina de espada e cruz
+'''                 B7/9          E7     A7M      A#7(b11)
+'''        Invade o peito de quem ouve e jazz
 
-'''
-'''    Picolé
-'''
-'''    Dedo no bolo, brigadeiro e pudim
-'''
-'''    Tira a mão
-'''
-'''    O doce é pra depois
-'''
-'''
-'''
-'''    Bota ordem nesse lugar
-'''
-'''    Que o vô vai levantar
-'''
-'''    Pra ver o Senna correr
-'''
-'''    Vem comer, vamos pra lá, já vai largar
-'''
-'''
-'''
-'''    Passa o café, libera o pudim
-'''
-'''    E eu já corto o bolo e o pavê
-'''
-'''    Tudo tá bom, nada não tem
-'''
-'''    Vê se tira o olho da TV
-'''
-'''    Mas olha lá
-'''
-'''    Não dá corda nas crianças, tio Filé
-'''
-'''    Barriga cheia e a gente vai ganhar troféu
-'''
-'''
-'''
-'''    Tá bom
-'''
-'''    domingo pode chegar
-'''
-'''    tem prima pra zoar
-'''
-'''    e muita história contar
-'''
-'''    Eu me chamo Vó
-'''
-'''    Mas diz Neneca no RG
+'''        A7M                             B7/9
+'''        Reis e pierrôs no ouro de outro sol
+'''                                         D7M
+'''        Curaram a dor e transformaram em céu
+'''                                     A7M
+'''        Batuques bantos do porão das naus
+'''                 G13        F#13      C7/9
+'''        E num disfarce em sambas de Noel
+'''                B7/9          E7   A7M
+'''        O negro pranto foi se inventar
+'''             A7
+'''        Carnaval
 
+###        -- B --
+'''        D6/9        Aº            Cº    F#m7
+'''        Som que arrebata e que causa frisson
+'''               F#m6             C#m7
+'''        Ou desacata na mulata o dom
+'''                 F#7(b13)            Bm7
+'''        Marca na alma a tez de um pais
+'''                 E7(b13)                  A7M
+'''        Feito um feitiço que o lamento quis
+'''              A7
+'''        Pra viver
+
+'''        D6/9            Aº                Cº      F#m7
+'''        Ah, quem tem no sangue o samba, o jazz, o som
+'''                  F#m6              C#m7
+'''        Tem na mistura encantamento bom
+'''                   F#7(b13)             Bm7
+'''        Feito um rabisco de carvão e giz
+'''                E7(b13)              A7M
+'''        Ou duas flores da mesma raiz.
+
+###        -- refrão --
+'''        A7M                  E7/4
+'''             Sambei no Jazz
+'''                             A7M
+'''        Ou foi o jazz que sambou
+'''                    E7/4
+'''        Deu tom com miles
+'''                   A7M
+'''        Cuica and soul
 ```
 
 
------------------
+ -----------------
 
+> 2015-07-30 - [saitodisse](http://saitodisse.github.io/)
+>  Início da tiração
 
-> tirada em 2015-08-01 por [Julio Makdisse Saito](http://saitodisse.github.io/).
+> 2015-07-31 - [saitodisse](http://saitodisse.github.io/)
+>  tiração concluída, verificada por Robertinho
 
+-------------
 
 > para fazer correções ou acrescentar mais músicas a coleção basta "forkar" o projeto ali em cima, em `*FORK*`. Depois faça um `*pull request*`. Se não conseguir pode me mandar alteração pelo email: saitodisse@gmail.com

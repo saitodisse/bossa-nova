@@ -1,7 +1,7 @@
 #### Neneca
 ##### Dani Gurgel (Nosso)
 ###### Dani Black e Breno Ruiz
-- [video](https://www.youtube.com/watch?v=7iTC9ldjB3A)
+- [youtube](https://www.youtube.com/watch?v=DLaGM4pn1RA)
 
 ```py
 ###    -- intro --
@@ -82,8 +82,10 @@
 
  -----------------
 
-> 2015-07-30 - [saitodisse](http://saitodisse.github.io/)
->  Primeira tentativa.
+> 2015-08-01 - [saitodisse](http://saitodisse.github.io/)
+>  Primeira tentativa. Só a primeira parte e olhe lá.
 
+
+-------------
 
 > para fazer correções ou acrescentar mais músicas a coleção basta "forkar" o projeto ali em cima, em `*FORK*`. Depois faça um `*pull request*`. Se não conseguir pode me mandar alteração pelo email: saitodisse@gmail.com
