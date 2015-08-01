@@ -65,7 +65,7 @@
 '''    Mas olha lá
 '''           D7(alt)      Eb±7+11      E-11    A7
 '''    Não dá corda nas crianças, tio Filé
-'''      D7M G7 Eb±9     E7(alt) F7/4 Bb7/4   Bb7/4(b9)   Em7(b5)
+'''      D7M G7 Eb±9     E7(alt) F7/4 Bb7/4   Bb7/4(b9)
 '''    Barriga cheia e a gente vai ganhar troféu
 
 '''       Em7(b5)
@@ -76,8 +76,8 @@
 '''    tem prima pra zoar
 '''                       G7(alt)
 '''    e muita história contar
-'''          B13   C13
-'''    Eu me chamo Vó
+'''             B13  C13
+'''    Eu me chamo   Vó
 '''              Ebm7  Ab7/4   Bb7M     F7/4
 '''    Mas diz Neneca   no    RG
 ```
