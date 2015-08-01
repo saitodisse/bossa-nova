@@ -21,15 +21,15 @@
 
 '''    C13
 '''    Traz a tia pra fofocar
-'''    Ebmin7    Ab7  Gmin7 Gmin7/F
+'''    Ebm7      Ab7  Gm7
 '''    O tio pra bagunçar
-'''             Emin7    A13
+'''             Gm7/F    Em7    A13
 '''    E a criançada brincar
 '''           Ab7(#11)              G7(alt)
 '''    Que eu quero mesmo festa e bagunça
 '''                    C13
 '''    Eu não ligo pra zona
-'''                         F7sus4
+'''                         F7/4
 '''    E quem arruma sou eu mesma
 '''
 '''    A vó é santa, vê só
@@ -45,32 +45,32 @@
 
 '''    C13
 '''    Bota ordem nesse lugar
-'''    Ebmin7            BbMaj7/D
+'''    Ebm7            Bb7M/D
 '''    Que o vô vai levantar
 '''                      Dbo7
 '''    Pra ver o Senna correr
-'''    Cmin7                B13(#11)      BbMaj7
+'''    Cm7                B13(#11)      Bb7M
 '''    Vem comer, vamos pra lá, já vai largar
 
 #      -- B --
 '''    Ab7/4                    Ab13(b9)
 '''    Passa o café, libera o pudim
-'''                    DbMaj7/Ab
+'''                    Db7M/Ab
 '''    E eu já corto o bolo e o pavê
 '''    Bb7/4                    Bb13(b9)
 '''    Tudo tá bom, nada não tem
-'''                 EbMaj7/Bb
+'''                 Eb7M/Bb
 '''    Vê se tira o olho da TV
 '''                 A-11
 '''    Mas olha lá
 '''           D7(alt)      Eb±7+11      E-11    A7
 '''    Não dá corda nas crianças, tio Filé
-'''      DMaj7 G7 Eb±9     E7(alt) F7sus4 Bb7sus4   Bb7sus(b9)   Em7(b5)
+'''      D7M G7 Eb±9     E7(alt) F7/4 Bb7/4   Bb7/4(b9)   Em7(b5)
 '''    Barriga cheia e a gente vai ganhar troféu
 
 '''       Em7(b5)
 '''    Tá bom
-'''                    Ebmin7
+'''                    Ebm7
 '''    domingo pode chegar
 '''                    D7(alt)
 '''    tem prima pra zoar
@@ -78,13 +78,13 @@
 '''    e muita história contar
 '''          B13   C13
 '''    Eu me chamo Vó
-'''              Ebmin7  Ab7sus4  BbMaj7   F7sus4
-'''    Mas diz Neneca no RG
+'''              Ebm7  Ab7/4   Bb7M     F7/4
+'''    Mas diz Neneca   no    RG
 ```
 
-> © 2004 DA PA VIRADA SAO PAULO BRAZIL ALL RIGHTS RESERVED. WWW.DAPAVIRADA.COM
+> © 2004 [da pá virada](http://www.dapavirada.com) sao paulo brazil all rights reserved.
 
- -----------------
+-----------------
 
 > 2015-08-01 - [saitodisse](http://saitodisse.github.io/)
 >  Primeira tentativa. Só a primeira parte e olhe lá.
