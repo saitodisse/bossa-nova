@@ -82,9 +82,7 @@
 '''    Mas diz Neneca no RG
 ```
 
------------------------
-© 2004 DA PA VIRADA SAO PAULO BRAZIL ALL RIGHTS RESERVED. WWW.DAPAVIRADA.COM
------------------------
+> © 2004 DA PA VIRADA SAO PAULO BRAZIL ALL RIGHTS RESERVED. WWW.DAPAVIRADA.COM
 
  -----------------
 
