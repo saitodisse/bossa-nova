@@ -1,6 +1,6 @@
 #### Neneca
 ##### Dani Gurgel (Nosso)
-###### Dani Black e Breno Ruiz
+###### Debora Gurgel, Dani Gurgel e Thiago Rabello
 - [youtube](https://www.youtube.com/watch?v=DLaGM4pn1RA)
 
 ```py
