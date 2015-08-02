@@ -16,7 +16,7 @@
 '''    Já tô no fogo cozinhando a cantar
 '''    Bb7M    /    Ebm9/Bb  /
 '''    Domingão
-'''                       D7/9 Ab7(#11) G7/9
+'''                       D7(#5) Ab7(#11) G7(#5)
 '''    Moçada vem pra almoçar
 
 '''    C13    /
@@ -25,7 +25,7 @@
 '''    O tio pra bagunçar
 '''             Gm7/F    Em7    A13
 '''    E a criançada brincar
-'''           Ab7(#11)   /          G7/9   /
+'''           Ab7(#11)   /          G7(#5)   /
 '''    Que eu quero mesmo festa e bagunça
 '''                    C13   /
 '''    Eu não ligo pra zona
@@ -64,18 +64,18 @@
 
 '''                 A-11  /
 '''    Mas olha lá
-'''           D7/9   /      Eb7M   /    E-11  A7
+'''           D7(#5)   /      Eb7M   /    E-11  A7
 '''    Não dá corda nas crianças, tio Filé
-'''      D7M G7 EbM9     E7/9 F7/4           Bb7/4   /    Bb7/4(b9)
+'''      D7M G7 EbM9     E7(#5) F7/4           Bb7/4   /    Bb7/4(b9)
 '''    Barriga cheia e a gente vai ganhar troféu
 
 '''       Em7(b5)
 '''    Tá bom
 '''                    Ebm7
 '''    domingo pode chegar
-'''                    D7/9
+'''                    D7(#5)
 '''    tem prima pra zoar
-'''                       G7/9
+'''                       G7(#5)
 '''    e muita história contar
 '''             B13  C13
 '''    Eu me chamo   Vó
