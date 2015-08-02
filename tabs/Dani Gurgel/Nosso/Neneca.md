@@ -93,6 +93,9 @@
 > 2015-08-01 - [saitodisse](http://saitodisse.github.io/)
 >  Achei a partitura original. Agora tenho que entender esse acordes malucos e tentar colocar o tempo correto. Depois tenta simplificar um pouco.
 
+> 2015-08-02 - [saitodisse](http://saitodisse.github.io/)
+>  Finalmente entendi o que alguns simbolos significavam na partitura original. Graças a este link: [Chord names and symbols (popular music)](https://en.wikipedia.org/wiki/Chord_names_and_symbols_(popular_music)); triangulo -> maior; AUT -> #5 (quinta auterada)
+
 -------------
 
 > para fazer correções ou acrescentar mais músicas a coleção basta "forkar" o projeto ali em cima, em `*FORK*`. Depois faça um `*pull request*`. Se não conseguir pode me mandar alteração pelo email: saitodisse@gmail.com
