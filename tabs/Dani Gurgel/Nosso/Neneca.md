@@ -16,7 +16,7 @@
 '''    Já tô no fogo cozinhando a cantar
 '''    Bb7M    /    Ebm9/Bb
 '''    Domingão
-'''           E7(#5) Eb(#9)     D7(#5)   Ab7(#11)  G7(#5)
+'''           /                 D7(#5)   Ab7(#11)  G7(#5)
 '''    Moçada vem    pra    almoçar
 
 '''    C13    /
@@ -83,8 +83,6 @@
 '''    Mas diz Neneca   no    RG
 ```
 
-> © 2004 [da pá virada](http://www.dapavirada.com) sao paulo brazil all rights reserved.
-
 -----------------
 
 > 2015-08-01 - [saitodisse](http://saitodisse.github.io/)
@@ -102,3 +100,5 @@
 -------------
 
 > para fazer correções ou acrescentar mais músicas a coleção basta "forkar" o projeto ali em cima, em `*FORK*`. Depois faça um `*pull request*`. Se não conseguir pode me mandar alteração pelo email: saitodisse@gmail.com
+
+> © 2004 [DA PÁ VIRADA](http://www.dapavirada.com) sao paulo brazil all rights reserved.
