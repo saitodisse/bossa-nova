@@ -6,7 +6,7 @@
 
 ```py
 ###    -- intro --
-'''    ( Bb7+  Ebm9 )/Bb
+'''    ( Bb7+  Ebm9/Bb )
 '''
 
 #      -- A --
@@ -14,10 +14,10 @@
 '''    De manhã
 '''                      Bb7M   /           Ebm9/Bb  /
 '''    Já tô no fogo cozinhando a cantar
-'''    Bb7M    /    Ebm9/Bb  /
+'''    Bb7M    /    Ebm9/Bb
 '''    Domingão
-'''                       D7(#5) Ab7(#11) G7(#5)
-'''    Moçada vem pra almoçar
+'''           E7(#5) Eb(#9)     D7(#5)   Ab7(#11)  G7(#5)
+'''    Moçada vem    pra    almoçar
 
 '''    C13    /
 '''    Traz a tia pra fofocar
@@ -49,15 +49,15 @@
 '''    Que o vô vai levantar
 '''                      Dbº7   /
 '''    Pra ver o Senna correr
-'''    Cm7        /        B13(#11)   /   Bb7M  / / /
+'''    Cm7        /        B13        /   Bb7M  /  /  /
 '''    Vem comer, vamos pra lá, já vai largar
 
 #      -- B --
-'''    Ab7/4                    Ab13(b9)
+'''    Ab7/4           /        Ab13(b9)    /
 '''    Passa o café, libera o pudim
-'''                    Db7M/Ab
+'''                    Db7M/Ab              /
 '''    E eu já corto o bolo e o pavê
-'''    Bb7/4                    Bb13(b9)
+'''    Bb7/4      /          Bb13(b9)   /
 '''    Tudo tá bom, nada não tem
 '''                 Eb7M/Bb
 '''    Vê se tira o olho da TV
@@ -66,20 +66,20 @@
 '''    Mas olha lá
 '''           D7(#5)   /      Eb7M   /    E-11  A7
 '''    Não dá corda nas crianças, tio Filé
-'''      D7M G7 EbM9     E7(#5) F7/4           Bb7/4   /    Bb7/4(b9)
+'''      D7M    G7    EbM9   E7(#5)   F7/4   Bb7/4   /    Bb7/4(b9)   /
 '''    Barriga cheia e a gente vai ganhar troféu
 
-'''       Em7(b5)
+'''       Em7(b5)  /
 '''    Tá bom
-'''                    Ebm7
+'''                    Ebm7   /
 '''    domingo pode chegar
-'''                    D7(#5)
+'''                    D7(#5)  /
 '''    tem prima pra zoar
-'''                       G7(#5)
+'''                       G7(#5)   /
 '''    e muita história contar
-'''             B13  C13
+'''             B13  C13  /
 '''    Eu me chamo   Vó
-'''              Ebm7  Ab7/4   Bb7M     F7/4
+'''              Ebm7  Ab7/4   Bb7M   /   F7/4
 '''    Mas diz Neneca   no    RG
 ```
 
@@ -95,6 +95,9 @@
 
 > 2015-08-02 - [saitodisse](http://saitodisse.github.io/)
 >  Finalmente entendi o que alguns simbolos significavam na partitura original. Graças a este link: [Chord names and symbols (popular music)](https://en.wikipedia.org/wiki/Chord_names_and_symbols_(popular_music)); triangulo -> maior; AUT -> #5 (quinta auterada)
+
+> 2015-08-03 - [saitodisse](http://saitodisse.github.io/)
+>  A Débora mandou a  partitura simplificada! Muita felicidade.
 
 -------------
 
