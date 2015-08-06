@@ -6,63 +6,63 @@
 ```py
 ###        -- intro --
 '''        ??   ??   ??   ??   ??  ??  ??  ??  ??  ??  ?? ??  ??  ??
-           A7M    E7/4      A7M    E7/4
+           A7+    E7/4      A7+    E7/4
 '''
 
 ###        -- A --
-'''        A7M                             B7/9
+'''        A7+                             B7/9
 '''        Tom de azul néon bordado a meia voz
-'''                                   D7M
+'''                                   D7+
 '''        Forjou num sentimento meio blues
-'''                                   A7M
+'''                Dm(7+)                A7+
 '''        Retinto canto de lamento e paz
-'''                  G13      F#13    C7/9
+'''                  G13      F#13    Bb7/4
 '''        Que feito sina de espada e cruz
-'''                 B7/9          E7     A7M      A#7(b11)
-'''        Invade o peito de quem ouve e jazz
+'''                 Bm7           E7     A7+      Bb7+
+'''        Invade o peito de quem ouve e JAIZ
 
-'''        A7M                             B7/9
+'''        A7+                             B7/9
 '''        Reis e pierrôs no ouro de outro sol
-'''                                         D7M
+'''                                         D7+
 '''        Curaram a dor e transformaram em céu
-'''                                     A7M
-'''        Batuques bantos do porão das naus
-'''                 G13        F#13      C7/9
+'''                 Dm(7+)              A7+
+'''        Batuques bantos DO PORÃO das naus
+'''                 G13         F#13     Bb7/4
 '''        E num disfarce em sambas de Noel
-'''                B7/9          E7   A7M
+'''                Bm7           E7   A7+
 '''        O negro pranto foi se inventar
-'''             A7
+'''             A7/4
 '''        Carnaval
 
 ###        -- B --
-'''        D6/9        Aº            Cº    F#m7
+'''        D7+         D6                  F#m7
 '''        Som que arrebata e que causa frisson
-'''               F#m6             C#m7
+'''               B7(#5)           Bbm7
 '''        Ou desacata na mulata o dom
 '''                 F#7(b13)            Bm7
 '''        Marca na alma a tez de um pais
-'''                 E7(b13)                  A7M
+'''                    F7           E7    A7+
 '''        Feito um feitiço que o lamento quis
-'''              A7
+'''              A7/4
 '''        Pra viver
 
-'''        D6/9            Aº                Cº      F#m7
+'''        D7+             D6                        F#m7
 '''        Ah, quem tem no sangue o samba, o jazz, o som
-'''                  F#m6              C#m7
+'''               B7(#5)           Bbm7
 '''        Tem na mistura encantamento bom
-'''                   F#7(b13)             Bm7
+'''                 F#7(b13)            Bm7
 '''        Feito um rabisco de carvão e giz
-'''                E7(b13)              A7M
+'''                    F7           E7    A7+
 '''        Ou duas flores da mesma raiz.
 
 ###        -- refrão --
-'''        A7M                  E7/4
-'''             Sambei no Jazz
-'''                             A7M
-'''        Ou foi o jazz que sambou
+'''        A7+                  E7/4
+'''             Sambei no JAIZ
+'''                              A7+
+'''        Ou foi o JAIZ que sambou
 '''                    E7/4
 '''        Deu tom com miles
-'''                   A7M
+'''                   A7+
 '''        Cuica and soul
 ```
 
