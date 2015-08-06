@@ -16,7 +16,7 @@
 '''        Forjou num sentimento meio blues
 '''                Dm(7+)                A7+
 '''        Retinto canto de lamento e paz
-'''                  G13      F#13    Bb7/4
+'''                  G13      F#(b13) Bb7/4
 '''        Que feito sina de espada e cruz
 '''                 Bm7           E7     A7+      Bb7+
 '''        Invade o peito de quem ouve e JAIZ
@@ -31,11 +31,11 @@
 '''        E num disfarce em sambas de Noel
 '''                Bm7           E7   A7+
 '''        O negro pranto foi se inventar
-'''             A7/4
+'''             A7/4  A7/9
 '''        Carnaval
 
 ###        -- B --
-'''        D7+         D6                  F#m7
+'''        D7+         Aº                  F#m7
 '''        Som que arrebata e que causa frisson
 '''               B7(#5)           Bbm7
 '''        Ou desacata na mulata o dom
@@ -43,10 +43,10 @@
 '''        Marca na alma a tez de um pais
 '''                    F7           E7    A7+
 '''        Feito um feitiço que o lamento quis
-'''              A7/4
+'''              A7/4   A7/9
 '''        Pra viver
 
-'''        D7+             D6                        F#m7
+'''        D7+             Aº                        F#m7
 '''        Ah, quem tem no sangue o samba, o jazz, o som
 '''               B7(#5)           Bbm7
 '''        Tem na mistura encantamento bom
