@@ -1,5 +1,0 @@
-#!/bin/bash
-
-git add . -A
-git commit -m'tab updated'
-git push origin master
