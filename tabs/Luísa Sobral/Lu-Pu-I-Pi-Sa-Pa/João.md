@@ -5,7 +5,7 @@
 -
 ```py
 ###        -- intro --
-'''        A  D  A  E
+'''        ( A  D  A  E )
 '''
 
 ###        -- A --
@@ -25,7 +25,7 @@
 '''        Propõem namorar num papel com sim ou não.
 '''                    D                        A
 '''        Sei que é difícil com tanta escolha assim
-'''                  E                              A     (intro)
+'''                  E                              A     ( A  D  A  E )
 '''        Que vai fazer           o João gostar de mim.
 
 ###        -- A --
@@ -45,7 +45,7 @@
 '''        Propõem namorar num papel com sim ou não.
 '''                    D                        A
 '''        Sei que é difícil com tanta escolha assim
-'''                  E                    A     (intro)
+'''                  E                    A     ( A  D  A  E )
 '''        Que vai fazer o João gostar de mim.
 
 ###        -- Instrumental --
