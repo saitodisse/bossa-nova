@@ -10,7 +10,7 @@
 
 ###        -- A --
 '''        GM7    /   Gm6     /    F#m7    /    B6(b9)    /
-           E4/7   /   E7(9)   /    A#(13)  /    A(13)     /
+           E4/7   /   E7(9)   /    A7/4  /    A6(b9)     /
 '''
 
 ```
@@ -19,6 +19,9 @@
 
 > 2015-09-24 - [saitodisse](http://saitodisse.github.io/)
 >  Composição da melodia
+
+> 2015-09-27 - [saitodisse](http://saitodisse.github.io/)
+>  Mudança do final  ( `A7/4  /  A6(b9)` )
 
 -------------
 
