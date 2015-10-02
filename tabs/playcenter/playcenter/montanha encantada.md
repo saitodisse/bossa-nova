@@ -5,10 +5,10 @@
 
 ```py
 ###           -- A --
-'''           A           D         A         G   E
-'''           Na montanha encantada é gostoso navegar
-'''           A              D                A     E    A
-'''           Navegando você leva a vida a sorrir e a cantar
+'''           A     /      D    /       A    /       G   E
+'''           Na montanha  encantada    é gostoso    navegar
+'''           A   /          D                   A          E        A
+'''           Navegando você le....va a vida a sorrir     e a     cantar
 
 ###           -- B --
 '''                A            D
@@ -17,22 +17,22 @@
 '''           O barquinho vai passando
 '''                 C#         F#m
 '''           A alegria vem chegando
-'''                 Bm    E
-'''           Cante sem parar!
+'''                 Bm       E
+'''           Cante sem    parar!
 '''               A            D
 '''           Seu canto de alegria
 '''                B             E
 '''           Se espalha   na montanha
-'''               C#              F#m         A   E    A
-'''           Atenção que a brincadeira vai reco..me...çar!
+'''               C#        /     F#m           A   E    A
+'''           Atenção que a brincadeira vai   reco..me...çar!
 
 ###           -- A --
-'''           A              D
+'''           A     /        D     /
 '''           Um sorriso uma brincadeira
-'''           A                 G      E
-'''       Alegria que a gente   sempre quiz
-'''           A              D              A      E          A
-'''              Na montanha encantada    você   é sempre   feliz!!!
+'''           A         /         G      E
+'''      Alegria que a ge...nte   sempre quiz
+'''           A     /        D    /         A            E          A
+'''           Na montanha    encantada    você..é     sempre      feliz!!!
 ```
 
 
